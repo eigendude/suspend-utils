@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>suspend-utils</name>
+  <version>1.0.0</version>
+  <description>Userspace suspend and hibernation utilities.</description>
+  <license>GPL-2.0</license>
+  <maintainer email="noone@nowhere.com">Unknown</maintainer>
+  <url type="website">https://kernel.googlesource.com/pub/scm/linux/kernel/git/rafael/suspend-utils</url>
+  <url type="repository">https://kernel.googlesource.com/pub/scm/linux/kernel/git/rafael/suspend-utils</url>
+
+  <build_depend>pciutils</build_depend>
+
+</package>
